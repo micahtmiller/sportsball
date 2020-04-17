@@ -12,7 +12,7 @@ When you submit your solution, please provide any special setup instructions
 
 ## Assumptions
 
-All requests are based on dat in the hitting file. Future requests will require data from a pitching file as well.  Consider this in the design.
+All requests are based on data in the hitting file. Future requests will require data from a pitching file as well.  Consider this in the design.
 
 ## Requirements
 
