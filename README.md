@@ -6,9 +6,17 @@ If you have any questions, please reach out to the interviewer by email.
 
 ## Scenario
 
-You have been asked to write an application that will be used to provide information about baseball player statistics.  Approach the problem as if your application is going to be deployed to a production environment.  If you are unable to complete all of the requirements, that is fine.  Simply make a note of what you were planning.  You can use any programming language and framework that you are comfortable with.
+You have just joined a DevOps team. This team lives by DevOps principles and you want to let them know you mean business! This particular team is developing a product that is deployed in a Google Cloud Project.
 
-When you submit your solution, please provide any special setup instructions
+This sprint, the team has been asked to write an application that will be used to provide information about baseball player statistics.
+
+You may need to make some assumptions, that's OK, just document what they are and move on.
+
+The team loves innovation, so you can use whatever languages and technologies you like to complete this. Approach this problem as if your code will go to production. Whilst we don’t expect the code to be perfect, we are not looking for a hacked together script.
+
+Your solution should offer the rest of the team a way to trigger the program and return the results.
+
+When you submit your solution, please provide any special setup instructions.
 
 ## Assumptions
 
